@@ -1,6 +1,6 @@
 # Support-Vector-Machine-Models-to-Predict-Diabetes
 
-This project conducts exploratory analysis on the Pima Indains Diabetes dataset obtained from the National Institute of Diabetes and Digestive and Kidney Diseases. 
+This project conducts exploratory analysis on the Pima Indains Diabetes dataset obtained from the National Institute of Diabetes and Digestive and Kidney Diseases. Data pre-processing was performed specifically dealing with NA values. Analyses include aggregate statistics, distributions of each feature, and relationships between features. 
 
 ### Attribute Information: 
  
